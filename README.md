@@ -1,10 +1,8 @@
-# CLMS-Papers
+# Papers related to the Copernicus Land Monitoring Service evolution - based on the project ECoLaSS
 
-Papers for Copernicus Land Monitoring Services evolution - based on H2020 ECoLaSS project (Jan. 2017 - Dec. 2019).
+Selection of papers on the evolution of Copernicus Land Monitoring Services, in order to include the time series produced by the Sentinel constellations, based on the H2020 ECoLaSS ("Evolution of COpernicus Land Services based on Sentinel data") led by GAF in a consortium including SIRS, Johanneum Research, Université Catholique de Louvain and the German Aerospace Center - DLR (Jan. 2017 - Dec. 2019).
 
-Selection of papers on the evolution of Copernicus Land Monitoring Services evolution based on the H2020 ECoLaSS ("Evolution of COpernicus Land Services based on Sentinel data") led by GAF in a consortium including SIRS, Johanneum Research, Université Catholique de Louvain and the German Aerospace Center - DLR.
-
-Preliminary skeleton:
+# Preliminary skeleton:
 
 1. Sentinel satellites characteristics
   - Sentinel-1 A/B
@@ -21,3 +19,10 @@ Preliminary skeleton:
   - LC/LU Wall-to-wall mapping
 4. Change Detection State-of-the-Art
 5. Publications related to the project ECoLaSS
+
+# Terminology - Abbreviations
+
+CLMS: Copernicus Land Monitoring Services
+ECoLaSS: Evolution of COpernicus Land Services based on Sentinel data
+LC: Land Cover
+LU: Land Use
