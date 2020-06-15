@@ -14,4 +14,10 @@ Preliminary skeleton:
   - Sentinel-1/Sentinel2
   - Sentinel-2/Sentinel-3
 3. Thematic Classification State-of-the-Art
+  - Urban mapping
+  - Forest mapping
+  - Grasslands mapping
+  - Agricultural mapping
+  - LC/LU Wall-to-wall mapping
 4. Change Detection State-of-the-Art
+5. Publications related to the project ECoLaSS
