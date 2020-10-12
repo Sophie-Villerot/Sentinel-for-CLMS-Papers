@@ -54,7 +54,7 @@ Moser, L., Probeck, M., Ramminger, G., Richter, R., Herrmann, D. (2018): _Sentin
 
 
 ##### ESA Big Data From Space (19-21 February 2019, Munich, Germany)
-Sannier, C., Villerot, S., Pennec, A., Lhernould A., Kenner, C., Mass A. (2019): _Ensuring spatial and temporal consistencies for the time series of the Copernicus Land Monitoring Pan-European HRLs_ - [Paper] [Poster](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SannierC_etal_2019_Validation_Evolution_Copernicus_HRL_IMP__Poster_BiDS.pdf)
+Sannier, C., Villerot, S., Pennec, A., Lhernould A., Kenner, C., Mass A. (2019): _Ensuring spatial and temporal consistencies for the time series of the Copernicus Land Monitoring Pan-European HRLs_ - [Abstract](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SannierC_etal_2019_HRL_IMP_change__BiDS.pdf) [Poster](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SannierC_etal_2019_Validation_Evolution_Copernicus_HRL_IMP__Poster_BiDS.pdf)
 
 
 ##### ESA Living Planet Symposium (13.-17. May 2019, Milano, Italy)
