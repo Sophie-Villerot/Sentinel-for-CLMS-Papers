@@ -100,17 +100,25 @@ _Presenting the GRA and agricultural prototypes (cropland and crop type maps), b
   
 Sannier, C., Villerot, S., Pennec, A., Lhernould A., Kenner, C., Mass A. (2019): _Ensuring spatial and temporal consistencies for the time series of the Copernicus Land Monitoring Pan-European HRLs_ - [Abstract](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SannierC_etal_2019_HRL_IMP_change__BiDS.pdf) [Poster](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SannierC_etal_2019_Validation_Evolution_Copernicus_HRL_IMP__Poster_BiDS.pdf)
 
+_Presenting the final IMP HRL prototypes for change, realized in the framework of ECoLaSS, based on optical S-2 time series, and the iterative methodology used._
+
 
   - **ESA Living Planet Symposium (13.-17. May 2019, Milano, Italy)**
   
 Probeck, M., Schwab, K., Sevillano Marco, E., Herrmann, D., Sandow, C., Richter, R., Moser, L.: _Prototypes of Future Copernicus Land Monitoring Products: The ECoLaSS Project_ - [Presentation](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/ProbeckM_etal_2019_Copernicus_Services_Evolution__Pres_LPS.pdf)
+
+_Presenting the final FOR HRL prototypes (dominant leaf-type and tree cover density maps and the incremental updates), based on S-1 and S-2 time series temporal features, the improved permanent GRA HRL prototype, based on the Normalized Difference Vegetation Index (NDVI) time series, and the final agricultural prototypes (cropland and crop type maps), based on S-1 and S-2 time series temporal features._
 
 
   - **ESA Living Planet Symposium (13.-17. May 2019, Milano, Italy)**
   
 Schwab, K., Eweys, O., Kenner, C., Moser, L., Wolter, J., Villerot, S., Probeck, M., Defourny, P.: _A Candidate for Next-generation Copernicus High Resolution Layers: Agriculture_ - [Poster](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/SchwabK_etal_2019_AGRI_Services_Copernicus__Poster_LPS.pdf)
 
+_Presenting the final agricultural prototypes (cropland and crop type maps), and the operational production chain, using S-1 and S-2 time series temporal features._
+
  
   - **ESA Living Planet Symposium (13.-17. May 2019, Milano, Italy)**
   
 van Baalen, R., Eweys, O., Georges, C., Radoux, J., Newby, T., Defourny, P.: _Early Estimate of Crop Emergence Date using Sentinel-2 over the Free State Province, South Africa_ - [Presentation](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/vanBaalenR_etal_2019_CropEmergenceEstimation_Services_Copernicus__Pres_LPS.pdf)
+
+_Presenting the final agricultural prototypes (crop emergence), and the operational production chain, using S-2 time series temporal features._
