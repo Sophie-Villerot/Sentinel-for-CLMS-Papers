@@ -1,5 +1,6 @@
 # List of Papers published in the framework of the ECoLaSS project
 
+## 2017
 
   - **WorldCover 2017 (14-16 March 2017 in Frascati (Rome), Italy)**
   
@@ -41,6 +42,8 @@ Moser, L., Probeck, M., Ramminger, G., Defourny, P. (2017): _Working towards Nex
 
 _Presenting the agricultural prototypes planned in the H2020 project ECoLaSS in an envisioned evolution of CLMS, through the addition of a new agricultural HRL, based on Synthetic Aperture Radar (SAR) and multispectral time series, provided by the twin satellites Sentinel-1 (S-1) and the optical twin satellites Sentinel-2 (S-2), as well as the improvements on the current HRL for IMP, FOR and GRA_
 
+
+## 2018
  
   - **10th Conference on European Space Policy (23-24 January 2018 in Brussels, Belgium)**
   
@@ -76,6 +79,8 @@ Moser, L., Ramminger, G., Probeck, M., Rieke, C., Mack, B., Storch, C., Sommer, 
   
 Moser, L., Probeck, M., Ramminger, G., Richter, R., Herrmann, D. (2018): _Sentinel Time Series for Next-generation Copernicus High Resolution Layers on Agriculture and Grassland_ - [Abstract](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/MoserL_etal_2018_GRA-AGRI_Services_Copernicus_Sentinel_TimeSeries__Abstract_INSPIRE_Conf.pdf) [Presentation](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/ECoLaSS_Publications/MoserL_etal_2018_GRA-AGRI_Services_Copernicus_Sentinel_TimeSeries__Pres_INSPIRE_Conf.pdf)
 
+
+## 2019
 
   - **ESA Big Data From Space (19-21 February 2019, Munich, Germany)**
   
