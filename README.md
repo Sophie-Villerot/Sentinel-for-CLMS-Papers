@@ -28,6 +28,88 @@ Further details can be found on the website of the project at [ecolass.eu/](http
 4. Change Detection State-of-the-Art
 5. [Publications related to the project ECoLaSS and deliverables provided to the European Commission](https://github.com/Sophie-Villerot/Sentinel-for-CLMS-Papers/blob/master/Publications_related_to_the_project_ECoLaSS/List_of_ECoLaSS_publications.md)
 
+# Thanks to the teams
+
+(By alphabetical order, as listed in the authors section of th deliverables)
+
+## GAF AG
+
+  - Roger **Almengor González**
+  - Giovanni **Buzzo**
+  - David **Herrmann**
+  - Martin **Ickerott**
+  - Monika **Kovatsch**
+  - Amelie **Lindmayer**
+  - Benjamin **Mack**
+  - Eva **Sevillano Marco**
+  - Linda **Moser**
+  - Markus **Probeck**
+  - Gernot **Ramminger**
+  - Regine **Richter**
+  - Christopher **Rieke**
+  - Inés **Ruiz Gomez**
+  - Christopher **Sandow**
+  - Katharina **Schwab**
+  - Kathrin **Schweitzer**
+  - Cornelia **Storch**
+  - André **Stumpf**
+  - Carolin **Summer**
+
+## SYSTEMES D'INFORMATION A REFERENCE SPATIALE - SIRS
+
+  - Yoann **Courmont**
+  - Fabrice **Dazin**
+  - Baudouin **Desclée**
+  - Tatiana **De-Wyse**
+  - Didier **Drache**
+  - Nicolas **Ekicier**
+  - Corentin **Falcone**
+  - Justine **Hugé**
+  - Grégory **Jacquet**
+  - Clémence **Kenner**
+  - Alice **Lhernould**
+  - Antoine **Masse**
+  - Alexandre **Pennec**
+  - Christophe **Sannier**
+
+## JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH
+
+  - Janik **Deutscher**
+  - Heinz **Gallaun**
+  - Klaus **Granica**
+  - Petra **Miletich**
+  - Larissa **Posch**
+  - Martin **Puhm**
+  - Mathias **Schardt**
+  - Benedikt **Zörfus**
+
+## UNIVERSITE CATHOLIQUE DE LOUVAIN
+
+  - Brigitte **Bedoret**
+  - Nicolas **Bellemans**
+  - Xavier **Blaes**
+  - Nicolas **Deffense**
+  - Pierre **Defourny**
+  - Omar Ali **Eweys**
+  - Benjamin **Goffart**
+  - Diane **Heymans**
+  - Elie **Khalil**
+  - Marie-Julie **Lambert**
+  - Thomas De **Maet**
+  - Philippe **Malcorps**
+  - Inès **Moreau**
+  - Matthieu **Taymans**
+  - Jolan **Walter**
+
+## DEUTSCHES ZENTRUM FUR LUFT - UND RAUMFAHRT EV
+
+  - Felix **Bachofer**
+  - Andreas **Hirner**
+  - Igor **Klein**
+  - Benjamin **Leutner**
+  - Annekatrin **Metz-Marconcini**
+  - Soner **Üreyen**
+
 # Terminology - Abbreviations
 
 **AGRI**: Agricultural
